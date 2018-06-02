@@ -3,3 +3,6 @@ plugins:
   
 redirect_to:
   - http://lozinska.herokuapp.com/
+  
+whitelist:
+  - jekyll-redirect-from
