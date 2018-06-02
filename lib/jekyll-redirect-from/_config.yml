@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+  
+redirect_to:
+  - http://lozinska.herokuapp.com/
+  
